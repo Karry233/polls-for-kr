@@ -1,0 +1,9 @@
+li a {
+    color: blue;
+}
+body {
+    background:url('images/background1.jpg');
+    background-position:center top;
+    background-size:720px 450px;
+    background-repeat:no-repeat;
+}
